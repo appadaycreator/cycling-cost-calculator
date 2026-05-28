@@ -1,8 +1,9 @@
 {
   "name": "Cycling Cost Calculator",
   "short_name": "cycling-cost",
-  "start_url": "/",
+  "start_url": "/cycling-cost-calculator/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/cycling-cost-calculator/"
 }
